@@ -4,6 +4,7 @@ Implementacion de topología de red mixta usando Mininet
 # Integrantes
 - Allison Orozco
 - Omar Perez
+- Samuel Pihuave
 - Winston Quinde
 - Joel Vinueza
 
