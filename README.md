@@ -32,12 +32,19 @@ Directamente desde consola de comandos de inicio puede crear una red por defecto
 Utilice comandos de mininet
 
 $ root@mininet-vm:~# cd..
+
 $ root@mininet-vm:/# ls
+
 $ root@mininet-vm:/# cd home
+
 $ root@mininet-vm:/home# cd mininet
+
 $ root@mininet-vm:/home/mininet# cd mininet
+
 $ root@mininet-vm:/home/mininet/mininet# cd examples
+
 $ root@mininet-vm:/home/mininet/mininet/examples# ls
+
 $ root@mininet-vm:/home/mininet/mininet/examples# python miniedit.py
 
 ![Captura6](https://github.com/JoelVinueza/Gp2_Grupo7/blob/main/Cap6.jpeg)
